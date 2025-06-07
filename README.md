@@ -77,13 +77,6 @@ pd.DataFrame(results).to_csv("lead_results.csv", index=False)
 
 ---
 
-## 📹 Loom Demo
-
-A walkthrough video is included explaining the functionality and showcasing real-time output.  
-🔗 [Link to Loom](#) *(Insert your Loom URL here)*
-
----
-
 ## 📧 Contact
 
 Feel free to connect:
